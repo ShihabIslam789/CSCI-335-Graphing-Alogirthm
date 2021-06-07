@@ -1,0 +1,8 @@
+Shihab Islam
+CSCI 335
+Assignment 6
+11 May 2021
+							Graph Algorithms
+	
+
+	It was quite a challenge in thinking of a way to do the vertices of this project. Initially I was going to implement the adjaceny list as a vector in a vector to show the conections from one to the next. But as I scrutinzed sources such as the textbook, I came across the iddea to instead do a adjacency matrix in an adjacency list is  another approach to this project. So I decided a map would be the best use for the points. The node was being used as a key and the vertecies was the weight connected to the key. Which is just like what is being asked in the project for Adjacency. Then came the part to implement Dijkstra's alogirthm, which wasn't too difficult since we used a queue design for it.  
